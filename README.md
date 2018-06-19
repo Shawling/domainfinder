@@ -1,0 +1,2 @@
+# domainfinder
+Domain name generator
