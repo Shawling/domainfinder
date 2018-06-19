@@ -1,0 +1,8 @@
+*
+* app
+* site
+* time
+get *
+lets *
+go *
+*hub
